@@ -2,6 +2,7 @@
 
 # Release notes
 ## Upcoming release
+* Updated for Stardew Valley 1.6.
 * Optimized legacy save migration a bit (thanks to Michael Kuklinski / Ameisen!).
 * Improved translations. Thanks to wally232 (added Korean)!
 
